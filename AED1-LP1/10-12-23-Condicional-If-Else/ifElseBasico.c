@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Aprovação - Media >= 6 e Faltas <= 18
+// Aprovação - Média >= 6 e Faltas <= 18
 // Classificação pra exame - Média >= 4 e Faltas <= 18
 
 int main()
