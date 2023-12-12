@@ -7,7 +7,7 @@ int main()
     
     printf("Digite a altura da pessoa (em cm): ");
     scanf("%f", &altura);
-    fflush(stdin);
+    fflush(stdin); // Usado para evitar que o \n do Enter seja colocado na variável "genero"
     printf("Digite o gênero da pessoa:\n(M) para Masculino\n(F) para Feminino\n");
     scanf("%c", &genero);
     
