@@ -15,8 +15,7 @@ int main()
 
         soma = soma + nota;
 
-        contador
-        ++;
+        contador++;
     }
 
     printf("Media da turma: %.2f", soma/totalAlunos);
