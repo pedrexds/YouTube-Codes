@@ -5,8 +5,7 @@ int main()
   int num;
   printf("Digite um número: ");
 
-do
-  {
+do{
    scanf("%i",&num);
   } while(num>1);
 
